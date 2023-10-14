@@ -1,0 +1,37 @@
+body{
+    color:#b3b313;
+    background-color:rgb(0, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.st{
+    text-transform:uppercase;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4{
+    color: #fff;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 25px;
+}
+
+h1{
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+ul li{
+    list-style: circle;
+    list-style-position: outside;
+    letter-spacing: 2px;
+}
+
+ol{
+    list-style:circle;
+    word-spacing: 4px;
+}
